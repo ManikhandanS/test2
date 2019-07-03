@@ -7,18 +7,25 @@ public class testthree {
 		int t;
 		System.out.println(num);
 		System.out.println(num1);
-	System.out.println("yes");
+
+	
+
+		System.out.println(num2);
+
 		for (int i = 0; i <=5; i++) {
 			t=num+num1+num2;
 			System.out.println(t);
 			num=num1;
-			num1=t;
-			
-			
-			
+			num1=num2;
+			num2=t;
 		}
-		
+		System.out.println("Addition Operation");
+		System.out.println("ending the program");
 		System.out.println("End of program");
+		System.out.println("Git Updated");
+		System.out.println("git");
+		System.out.print(num1+num2);
+		System.out.println("yes");
 	}
 
 	
