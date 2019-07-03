@@ -22,6 +22,7 @@ public class testone {
 	    }else
 	    {
 	        System.out.println("Entered number is odd");
+	        System.out.println("hai");
 	  }
 
 	    System.out.println("done");
