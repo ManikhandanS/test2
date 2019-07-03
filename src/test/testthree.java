@@ -7,6 +7,9 @@ public class testthree {
 		int t;
 		System.out.println(num);
 		System.out.println(num1);
+
+	
+
 		System.out.println(num2);
 
 		for (int i = 0; i <=5; i++) {
@@ -22,6 +25,7 @@ public class testthree {
 		System.out.println("Git Updated");
 		System.out.println("git");
 		System.out.print(num1+num2);
+		System.out.println("yes");
 	}
 
 	
