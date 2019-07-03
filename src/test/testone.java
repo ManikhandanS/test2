@@ -22,6 +22,8 @@ public class testone {
 	    }else
 	    {
 	        System.out.println("Entered number is odd");
+	        System.out.println("saran");
+	        
 	  }
 
 	    System.out.println("done");
