@@ -1,6 +1,7 @@
 package test;
 
 public class testtwo {
+<<<<<<< HEAD
 	public static void main(String[] args) {
 	int	no=13,rem,int l=0;
 	int t=no;
@@ -19,6 +20,22 @@ whlie(t!=0)
 	}
 	t=t/10;
 	arm=arm+m;
+=======
+	
+
+	
+	
+	public static void main(String[] args) {
+		System.out.println("hello");
+		
+	
+		}
+	public void see() {
+		System.out.println("done");
+	}
+		
+
+>>>>>>> 72bd03f308dc0a739d10ee7bf03deae3561c50c8
 }
 System.out.println();
 }}
