@@ -7,7 +7,7 @@ public class testthree {
 		int t;
 		System.out.println(num);
 		System.out.println(num1);
-	
+		System.out.println(num2);
 		for (int i = 0; i <=5; i++) {
 			t=num+num1+num2;
 			System.out.println(t);
