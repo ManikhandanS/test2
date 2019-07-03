@@ -10,6 +10,7 @@ public class testone {
 	    System.out.println("Enter an Integer number:");
 
 	    //The input provided by user is stored in num
+	  
 	    Scanner input = new Scanner(System.in);
 	    num = input.nextInt();
 
@@ -22,5 +23,13 @@ public class testone {
 	    {
 	        System.out.println("Entered number is odd");
 	  }
+
+	    System.out.println("done");
+
+System.out.println("test");
+
+      System.out.println("Git");
+      System.out.println("Program Executed Successfully...");
+
 	  }
 }
