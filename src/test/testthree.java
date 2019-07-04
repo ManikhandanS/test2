@@ -18,6 +18,7 @@ public class testthree {
 			num=num1;
 			num1=num2;
 			num2=t;
+			num4=t;
 		}
 		System.out.println("Addition Operation");
 		System.out.println("ending the program");
