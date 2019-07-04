@@ -13,12 +13,13 @@ public class testone {
 		 if(a==10) {
 			 c=a*b;
 			 System.out.println("a*b ="+c);
-			 System.out.println("testing the conflict issue");
+			 System.out.println("testing the conflict issue not resolved");
 		 }
 			 else {
 				 c=a%b;
 				 System.out.println("a%B"+c);
 				 System.out.println("logics where tested and checking conflict");
+				 System.out.println"(added printout for conflict");
 		 }
 		// code end by arunmozhi 
 	    int num;
