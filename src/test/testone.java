@@ -24,6 +24,8 @@ public class testone {
 	    int num;
 	    System.out.println("Program");
 	    System.out.println("Enter an Integer number:");
+	    System.out.println("bala");
+	    System.out.println("kaarthi");
 
 	    //The input provided by user is stored in num
 	  
